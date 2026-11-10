@@ -8,14 +8,16 @@ window.SITE = {
   formEndpoint: "",
 
   stats: [
-    { value: "~4,000", label: "Instagram followers" },
-    { value: "1,000–5,000", label: "Average Reel views" },
-    { value: "Canada", label: "Based in" },
-    { value: "Travel & Lifestyle", label: "Main categories" }
+    { value: "~4,000", label: "Instagram followers, growing" },
+    { value: "Canada", label: "Based in; in India December 2026" },
+    { value: "Photo + Video", label: "Visual-first content" },
+    { value: "Open", label: "To brands in any category" }
   ],
+
 
   // Fill `value` to show a row. Rows left empty stay hidden (nothing fake is ever displayed).
   insights: [
+    { label: "Average Reel views", value: "" },   // optional; add if you want it shown
     { label: "Audience countries", value: "" },
     { label: "Top audience cities", value: "" },
     { label: "Age distribution", value: "" },
