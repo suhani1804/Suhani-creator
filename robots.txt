@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# TODO: add your Sitemap URL after deploying
